@@ -56,7 +56,7 @@ Si tu intentas presionar la barra espaciadora ahora, algo horrible pasará El ma
 
 Si tu intentas presionar la barra espaciadora ahora, algo horrible casi seguramente ocurrirá. ¿Por qué?
 
-Cuando pulsas la barra de espacio ahora, Vim piensa que quieres que haga lo que `viw <space> "<espacio> Seleccione <space>` palabra haría. Obviamente esto no es lo que queremos.
+Cuando pulsas la barra de espacio ahora, Vim piensa que quieres que haga lo que `viw<space>"<espace>Select<space>word`. Obviamente esto no es lo que queremos.
 
 Si observa de cerca el efecto de este mapeo puede notar algo extraño. Tómese unos minutos para tratar de averiguar exactamente qué sucede cuando lo usa, y por qué sucede.
 
